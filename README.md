@@ -5,8 +5,6 @@ Computer Engineering student at [Inteli](https://www.inteli.edu.br/)ㅤ<img src=
 <br>
 AI student at [Zuyd University](https://www.zuyd.nl/en) <img src="https://github.com/Bianca-Cassemiro/Bianca-Cassemiro/assets/99203402/017c35c9-3943-414a-aae5-a1a097cda754" alt="Inteli Logo" width="20"> <br>
 
-<div style="width:100%;height:0;padding-bottom:121%;position:relative;"><iframe src="https://giphy.com/embed/AWNxDbtHGIJDW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/watch-apple-alle-AWNxDbtHGIJDW">via GIPHY</a></p>
-
 ⚙️ I use daily: `Next.js`, `SASS`, `JavaScript`, `React.js`, `TypeScript`, `Node.js`, `Python` <br>
 🌍 Designed and developed projects: Earth Token, Iby Platform, Block, Podcastr <br>
 💬 Ping me about **software development**, **web development**, **AI**, **project-based learning**<br>
