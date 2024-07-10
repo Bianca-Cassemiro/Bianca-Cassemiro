@@ -1,19 +1,20 @@
-### Hi there 👋
+### Hello there 👋
 
-<div align="center">
-  <a href="https://github.com/Bianca-Cassemiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bianca-Cassemiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-Cassemiro&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bia-kotlin" height="28" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-</div>
-<div>
+#### A Full-Stack Developer by day ☼ and a hackathon enthusiast by night ☾
+Computer Engineering student at [Inteli](https://www.inteli.edu.br/)ㅤ<img src="https://github.com/Bianca-Cassemiro/Bianca-Cassemiro/assets/99203402/837e4bdf-8d76-48b9-9fdb-846a5f20ca01" alt="Inteli Logo" width="18">
+<br>
+AI student at [Zuyd University](https://www.zuyd.nl/en) <img src="https://github.com/Bianca-Cassemiro/Bianca-Cassemiro/assets/99203402/017c35c9-3943-414a-aae5-a1a097cda754" alt="Inteli Logo" width="20"> <br>
+
+
+⚙️ I use daily: `Next.js`, `SASS`, `JavaScript`, `React.js`, `TypeScript`, `Node.js`, `Python` <br>
+🌍 Designed and developed projects: Earth Token, Iby Platform, Block, Podcastr <br>
+💬 Ping me about **software development**, **web development**, **AI**, **project-based learning**<br>
+<br>
  
- 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,sass,py,nodejs,postgres,aws&theme=light)](https://skillicons.dev)
+
+<br>
+
   <a href = "mailto:cassemirobiancalima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/Bianca-Cassemiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
