@@ -5,12 +5,12 @@ Computer Engineering student at [Inteli](https://www.inteli.edu.br/)ㅤ<img src=
 <br>
 AI student at [Zuyd University](https://www.zuyd.nl/en) <img src="https://github.com/Bianca-Cassemiro/Bianca-Cassemiro/assets/99203402/017c35c9-3943-414a-aae5-a1a097cda754" alt="Inteli Logo" width="20"> <br>
 
-⚙️ I use daily: `Next.js`, `SASS`, `JavaScript`, `React.js`, `TypeScript`, `Node.js`, `Python` <br>
+⚙️ I use daily: `Python`, `SQL`, `JavaScript`, `React.js`, `TypeScript`, `Node.js`,  <br>
 🌍 Designed and developed projects: Earth Token, Iby Platform, Block, Podcastr <br>
 💬 Ping me about **software development**, **web development**, **AI**, **project-based learning**<br>
 <br>
  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,sass,py,nodejs,postgres,aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,postgres,ts,react,nextjs,sass,nodejs&theme=light)](https://skillicons.dev)
 
 <br>
 
